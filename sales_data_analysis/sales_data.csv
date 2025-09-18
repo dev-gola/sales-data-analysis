@@ -1,0 +1,9 @@
+OrderID,Product,Category,Quantity,Price,Region,Date
+1,Laptop,Tech,2,60000,Delhi,05-01-2023
+2,Phone,Tech,1,25000,Mumbai,07-01-2023
+3,Chair,Furniture,4,3000,Bangalore,10-02-2023
+4,Mouse,Accessories,3,800,Delhi,15-02-2023
+5,Tablet,Tech,1,20000,Chennai,01-03-2023
+6,Headphones,Accessories,2,2000,Hyderabad,05-03-2023
+7,Table,Furniture,1,12000,Mumbai,12-04-2023
+8,Monitor,Tech,2,15000,Delhi,15-04-2023
