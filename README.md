@@ -51,7 +51,7 @@ Monthly Revenue Trend
 🚀 How to Run
 
 Clone this repository:
-git clone https://github.com/YOUR-USERNAME/sales-data-analysis.git
+git clone https://github.com/dev-gola/sales-data-analysis.git
 
 Install required libraries:
 pip install pandas matplotlib seaborn notebook
